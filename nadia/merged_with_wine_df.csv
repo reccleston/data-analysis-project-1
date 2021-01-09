@@ -1,0 +1,187 @@
+,Continent,Country Code,Country,Alcohol Consumption Per Capita (Liters),Climate,Region,Happiness Score,Life Expectancy,GDP per capita,Mental Health Disorders (%),Wine Consumption per capita (Liters)
+0,Asia,AFG,Afghanistan,0.2,arid to semiarid; cold winters and hot summers,South Asia,2.566900015,52.59000015,7.462860583999999,17.55346296,0.0
+1,Europe,ALB,Albania,7.5,"mild temperate; cool, cloudy, wet winters; hot, clear, dry summers; interior is cooler and wetter",Central and Eastern Europe,4.882699966000001,68.70813751,9.417930603,10.98761042,1.14
+2,Africa,DZA,Algeria,0.9,"arid to semiarid; mild, wet winters with hot, dry summers along coast; drier with cold winters and hot summers on high plateau; sirocco is a hot, dust/sand-laden wind especially common in summer",Middle East and North Africa,5.005099773,65.90517426,9.537964821000001,14.70038757,0.22
+3,Europe,AND,Andorra,11.3,"temperate; snowy, cold winters and warm, dry summers",,,,,14.72686934,4.29
+4,Africa,AGO,Angola,6.4,"semiarid in south and along coast to Luanda; north has cool, dry season (May to October) and hot, rainy season (November to April)",,,,,12.4982806,1.32
+5,North America,ATG,Antigua and Barbuda,7.0,tropical maritime; little seasonal temperature variation,,,,,13.15993984,1.87
+6,Europe,AZE,Azerbaijan,0.8,"dry, semiarid steppe",Commonwealth of Independent States,5.164800167,65.50839996,9.687726974,10.49581501,0.23
+7,South America,ARG,Argentina,9.8,mostly temperate; arid in southeast; subantarctic in southwest,Latin America and Caribbean,5.974699974,68.80380249,9.810955048,15.49123492,3.22
+8,Oceania,AUS,Australia,10.6,generally arid to semiarid; temperate in south and east; tropical in north,North America and ANZ,7.222799778,73.60453796,10.72059631,18.077892,3.64
+9,Europe,AUT,Austria,11.6,"temperate; continental, cloudy; cold winters with frequent rain and some snow in lowlands and snow in mountains; moderate summers with occasional showers",Western Europe,7.294199944,73.00250244,10.7428236,14.64811057,4.37
+10,North America,BHS,Bahamas,4.4,,,,,,13.35554939,1.6
+11,Asia,BHR,Bahrain,1.9,"arid; mild, pleasant winters; very hot, humid summers",Middle East and North Africa,6.227300167,68.5,10.67638016,14.57364164,0.13
+12,Asia,BGD,Bangladesh,0.0,"tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October)",South Asia,4.832799911,64.50306702,8.287063599,13.52747593,0.0
+13,Europe,ARM,Armenia,5.5,"highland continental, hot summers, cold winters",Commonwealth of Independent States,4.676799774,66.75065613,9.100476265,10.64428436,0.13
+14,North America,BRB,Barbados,9.6,tropical; rainy season (June to October),,,,,13.50352804,0.83
+15,Europe,BEL,Belgium,12.1,"temperate; mild winters, cool summers; rainy, humid, cloudy",Western Europe,6.863500117999999,72.00164795,10.6736393,14.65897462,4.53
+16,Asia,BTN,Bhutan,0.6,varies; tropical in southern plains; cool winters and hot summers in central valleys; severe winters and cool summers in Himalayas,,,,,12.44368606,0.05
+17,South America,BOL,Bolivia,4.8,varies with altitude; humid and tropical to cold and semiarid,Latin America and Caribbean,5.747499942999999,63.6004715,8.851115227000001,12.85289814,0.03
+18,Europe,BIH,Bosnia and Herzegovina,6.4,"hot summers and cold winters; areas of high elevation have short, cool summers and long, severe winters; mild, rainy winters along coast",Central and Eastern Europe,5.674099922000001,67.80813599,9.455817223,11.69452752,0.15
+19,Africa,BWA,Botswana,8.4,semiarid; warm winters and hot summers,Sub-Saharan Africa,3.478899956,58.92445374,9.711203575,12.32002157,0.59
+20,South America,BRA,Brazil,7.8,"mostly tropical, but temperate in south",Latin America and Caribbean,6.375599861,66.48016357,9.56643486,14.2402715,0.27
+21,North America,BLZ,Belize,6.7,tropical; very hot and humid; rainy season (May to November); dry season (February to May),,,,,13.26346232,0.2
+22,Oceania,SLB,Solomon Islands,1.4,tropical monsoon; few temperature and weather extremes,,,,,11.49658112,0.03
+23,Asia,BRN,Brunei,0.4,"tropical; hot, humid, rainy",,,,,11.40089558,0.05
+24,Europe,BGR,Bulgaria,12.7,"temperate; cold, damp winters; hot, dry summers",Central and Eastern Europe,5.101500034,66.80397797,9.869318962000001,11.4517152,2.87
+25,Asia,MMR,Myanmar,4.8,,Southeast Asia,4.308000088,58.96171188,8.680481911000001,12.27146556,0.0
+26,Africa,BDI,Burundi,7.5,"equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees Celsius but is generally moderate as the average altitude is about 1,700 m; average annual rainfall is about 150 cm; two wet seasons (February to May and September to November), and two dry seasons (June to August and December to January)",Sub-Saharan Africa,3.775300026,53.40000153,6.492642403,13.28411749,0.0
+27,Europe,BLR,Belarus,11.2,"cold winters, cool and moist summers; transitional between continental and maritime",Commonwealth of Independent States,5.539899826,66.10433197,9.779945374,12.06693399,0.37
+28,Asia,KHM,Cambodia,6.7,"tropical; rainy, monsoon season (May to November); dry season (December to April); little seasonal temperature variation",Southeast Asia,4.8484001160000005,61.52996826,8.249890327000001,13.50304493,0.02
+29,Africa,CMR,Cameroon,8.9,"varies with terrain, from tropical along coast to semiarid and hot in north",Sub-Saharan Africa,5.084899902,52.7049408,8.118647575,11.61166356,0.11
+30,North America,CAN,Canada,8.9,varies from temperate in south to subarctic and arctic in north,North America and ANZ,7.23210001,73.60160065,10.69236851,15.55324495,2.0
+31,Africa,CPV,Cape Verde,5.7,,,,,,11.95833699,1.55
+32,Africa,CAF,Central African Republic,3.3,"tropical; hot, dry winters; mild to hot, wet summers",Sub-Saharan Africa,3.475899935,45.20000076,6.625160217,12.63780875,0.02
+33,Asia,LKA,Sri Lanka,4.3,tropical monsoon; northeast monsoon (December to March); southwest monsoon (June to October),South Asia,4.327000141,67.20006561,9.389969826,12.66467191,0.01
+34,Africa,TCD,Chad,1.5,"tropical in south, desert in north",Sub-Saharan Africa,4.422699928,48.22053909,7.467963696,12.14801119,0.05
+35,South America,CHL,Chile,9.3,temperate; desert in north; Mediterranean in central region; cool and damp in south,Latin America and Caribbean,6.228499889,69.90061951,10.0320549,16.19709277,2.65
+36,Asia,CHN,China,7.2,extremely diverse; tropical in south to subarctic in north,East Asia,5.123899937,69.2891922,9.688568115,11.49770565,0.17
+37,South America,COL,Colombia,5.8,tropical along coast and eastern plains; cooler in highlands,Latin America and Caribbean,6.163400172999999,67.69958496,9.500369072,10.06709708,0.05
+38,Africa,COM,Comoros,0.9,tropical marine; rainy season (November to May),Sub-Saharan Africa,4.288599968,57.34901047,7.833630085,12.23160528,0.05
+39,Africa,COG,Congo,7.8,,,,,,12.4275725,0.21
+40,Africa,COD,Democratic Republic of Congo,2.6,,,,,,12.51925124,0.22
+41,North America,CRI,Costa Rica,4.8,tropical and subtropical; dry season (December to April); rainy season (May to November); cooler in highlands,Latin America and Caribbean,7.121399879,71.29985046,9.658156395,10.79582339,0.27
+42,Europe,HRV,Croatia,8.9,"Mediterranean and continental; continental climate predominant with hot summers and cold winters; mild winters, dry summers along coast",Central and Eastern Europe,5.504700184,70.21490479,10.07087517,11.77945199,6.25
+43,North America,CUB,Cuba,6.1,tropical; moderated by trade winds; dry season (November to April); rainy season (May to October),,,,,14.78009612,0.09
+44,Europe,CYP,Cyprus,10.8,"temperate; Mediterranean with hot, dry summers and cool winters",Western Europe,6.15899992,73.70222473,10.40570259,14.2775815,2.48
+45,Europe,CZE,Czechia,14.4,"temperate; cool summers; cold, cloudy, humid winters",,,,,11.544140400000002,2.6
+46,Africa,BEN,Benin,3.0,"tropical; hot, humid in south; semiarid in north",Sub-Saharan Africa,5.21600008,54.31246567,7.674319744,11.78810722,0.22
+47,Europe,DNK,Denmark,10.4,"temperate; humid and overcast; mild, windy winters and cool summers",Western Europe,7.645599842,72.40250397,10.77400112,14.89574698,4.35
+48,North America,DMA,Dominica,8.2,tropical; moderated by northeast trade winds; heavy rainfall,,,,,13.25174088,0.48
+49,North America,DOM,Dominican Republic,6.9,tropical maritime; little seasonal temperature variation; seasonal variation in rainfall,Latin America and Caribbean,5.689199924,65.80748749,9.664880753,13.38515549,0.22
+50,South America,ECU,Ecuador,4.4,"tropical along coast, becoming cooler inland at higher elevations; tropical in Amazonian jungle lowlands",Latin America and Caribbean,5.925199986,68.50003815,9.246058463999999,12.58819105,0.06
+51,North America,SLV,El Salvador,3.7,tropical; rainy season (May to October); dry season (November to April); tropical on coast; temperate in uplands,Latin America and Caribbean,6.34829998,66.10826111,8.909075737,11.02097074,0.04
+52,Africa,GNQ,Equatorial Guinea,11.3,"tropical; always hot, humid",,,,,12.70581269,1.71
+53,Africa,ETH,Ethiopia,2.8,tropical monsoon with wide topographic-induced variation,Sub-Saharan Africa,4.186200142,58.63959122,7.509385586,13.50487229,0.0
+54,Africa,ERI,Eritrea,1.3,"hot, dry desert strip along Red Sea coast; cooler and wetter in the central highlands (up to 61 cm of rainfall annually, heaviest June to September); semiarid in western hills and lowlands",,,,,13.11717178,0.0
+55,Europe,EST,Estonia,11.6,"maritime; wet, moderate winters, cool summers",Central and Eastern Europe,6.0218000410000005,68.60495758,10.34001732,12.61689377,1.65
+56,Oceania,FJI,Fiji,3.0,tropical marine; only slight seasonal temperature variation,,,,,11.06768167,0.02
+57,Europe,FIN,Finland,10.7,"cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than 60,000 lakes",Western Europe,7.808700085,71.9008255,10.63926697,15.54736732,1.67
+58,Europe,FRA,France,12.6,"metropolitan France: generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral;",Western Europe,6.663799762999999,73.80193329,10.58422279,16.64020116,6.4
+59,Africa,DJI,Djibouti,0.5,"desert; torrid, dry",,,,,12.34444059,0.03
+60,Africa,GAB,Gabon,11.5,"tropical; always hot, humid",Sub-Saharan Africa,4.829299927,59.71533966,9.680537224,12.31939501,0.96
+61,Europe,GEO,Georgia,9.8,warm and pleasant; Mediterranean-like on Black Sea coast,Commonwealth of Independent States,4.672599792,64.49520874,9.226100922,10.75221672,2.5
+62,Africa,GMB,Gambia,3.8,,Sub-Saharan Africa,4.750599861,55.01201629999999,7.321814537000001,12.24553751,0.02
+63,Europe,DEU,Germany,13.4,"temperate and marine; cool, cloudy, wet winters and summers; occasional warm mountain (foehn) wind",Western Europe,7.075799942000001,72.20201874,10.7328186,15.15150597,3.1
+64,Africa,GHA,Ghana,2.7,tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north,Sub-Saharan Africa,5.1479997630000005,57.20398712,8.350645065,11.56856919,0.21
+65,Oceania,KIR,Kiribati,0.4,"tropical; marine, hot and humid, moderated by trade winds",,,,,11.42343114,0.03
+66,Europe,GRC,Greece,10.4,"temperate; mild, wet winters; hot, dry summers",Western Europe,5.514999866,72.40525818,10.13232613,15.32749818,3.92
+67,North America,GRD,Grenada,9.3,tropical; tempered by northeast trade winds,,,,,13.31268835,0.59
+68,North America,GTM,Guatemala,2.4,"tropical; hot, humid in lowlands; cooler in highlands",Latin America and Caribbean,6.398900032,64.8089447,8.924805641,11.08807518,0.04
+69,Africa,GIN,Guinea,1.3,generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds,Sub-Saharan Africa,4.949299812,54.46780014,7.750990391,11.53637149,0.02
+70,South America,GUY,Guyana,6.3,"tropical; hot, humid, moderated by northeast trade winds; two rainy seasons (May to August, November to January)",,,,,14.172059099999998,0.02
+71,North America,HTI,Haiti,5.8,tropical; semiarid where mountains in east cut off trade winds,Latin America and Caribbean,3.720799923,55.59862518,7.4113292689999986,13.51929446,0.02
+72,North America,HND,Honduras,4.0,"subtropical in lowlands, temperate in mountains",Latin America and Caribbean,5.953199862999999,67.19876862,8.424534798,10.52199952,0.03
+73,Europe,HUN,Hungary,11.4,"temperate; cold, cloudy, humid winters; warm summers",Central and Eastern Europe,6.000400066,67.60997009,10.24924374,11.75884349,3.35
+74,Europe,ISL,Iceland,9.1,"temperate; moderated by North Atlantic Current; mild, windy winters; damp, cool summers",Western Europe,7.504499912000001,73.0,10.77255917,14.36137388,2.03
+75,Asia,IND,India,5.7,varies from tropical monsoon in south to temperate in north,South Asia,3.573299885,60.21518707,8.849823952000001,15.23128555,0.0
+76,Asia,IDN,Indonesia,0.8,"tropical; hot, humid; more moderate in highlands",Southeast Asia,5.285600185,62.15584946,9.36975193,11.67265784,0.0
+77,Asia,IRN,Iran,1.0,"mostly arid or semiarid, subtropical along Caspian coast",Middle East and North Africa,4.672399998,66.00614929,9.813719749,17.99456408,0.0
+78,Asia,IRQ,Iraq,0.4,"mostly desert; mild to cool winters with dry, hot, cloudless summers; northern mountainous regions along Iranian and Turkish borders experience cold winters with occasionally heavy snows that melt in early spring, sometimes causing extensive flooding in central and southern Iraq",Middle East and North Africa,4.7848000530000006,59.90354919,9.661095619,13.8951674,0.0
+79,Europe,IRL,Ireland,13.0,"temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time",Western Europe,7.093699932000001,72.30078888,11.16097832,15.41412917,2.8
+80,Asia,ISR,Israel,3.8,temperate; hot and dry in southern and eastern desert areas,Middle East and North Africa,7.128600121,73.20025635,10.41752529,12.88284967,0.17
+81,Europe,ITA,Italy,7.5,"predominantly Mediterranean; alpine in far north; hot, dry in south",Western Europe,6.38740015,73.60168457,10.48183632,15.21427259,4.97
+82,Africa,CIV,Cote d'Ivoire,8.4,"tropical along coast, semiarid in far north; three seasons - warm and dry (November to March), hot and dry (March to May), hot and wet (June to October)",,,,,11.38160749,0.24
+83,North America,JAM,Jamaica,4.2,"tropical; hot, humid; temperate interior",Latin America and Caribbean,5.889800072000001,67.09999847,9.006250381000001,13.18570297,0.16
+84,Asia,JPN,Japan,8.0,varies from tropical in south to cool temperate in north,East Asia,5.870800018,75.00096893,10.57968903,12.05653373,0.39
+85,Europe,KAZ,Kazakhstan,7.7,"continental, cold winters and hot summers, arid and semiarid",Commonwealth of Independent States,6.0578999520000005,64.60996246,10.11465836,11.11328626,0.35
+86,Asia,JOR,Jordan,0.7,mostly arid desert; rainy season in west (November to April),Middle East and North Africa,4.6333999630000005,66.79975128,9.025999069,14.86578036,0.01
+87,Africa,KEN,Kenya,3.4,varies from tropical along coast to arid in interior,Sub-Saharan Africa,4.583000183,60.09693146,8.02977562,12.4151403,0.04
+88,Asia,PRK,North Korea,3.9,,,,,,11.36096419,0.0
+89,Asia,KOR,South Korea,10.2,,East Asia,5.872399807000001,73.60272979999998,10.51056671,11.39637778,0.15
+90,Asia,KWT,Kuwait,0.0,"dry desert; intensely hot summers; short, cool winters",Middle East and North Africa,6.102099895,66.76764679,11.08982468,14.03549697,0.0
+91,Asia,KGZ,Kyrgyzstan,6.2,dry continental to polar in high Tien Shan Mountains; subtropical in southwest (Fergana Valley); temperate in northern foothill zone,Commonwealth of Independent States,5.541500092000001,64.10601044,8.148405075,11.06880956,0.09
+92,Asia,LAO,Laos,10.4,tropical monsoon; rainy season (May to November); dry season (December to April),Southeast Asia,4.888599873,58.70992279,8.79858017,13.41133002,0.0
+93,Asia,LBN,Lebanon,1.5,"Mediterranean; mild to cool, wet winters with hot, dry summers; the Lebanon Mountains experience heavy winter snows",Middle East and North Africa,4.771500111,67.10658264,9.3617239,15.7604196,0.16
+94,Africa,LSO,Lesotho,5.0,"temperate; cool to cold, dry winters; hot, wet summers",Sub-Saharan Africa,3.652800083,48.00362396,7.960488318999999,13.86770948,0.01
+95,Europe,LVA,Latvia,12.9,"maritime; wet, moderate winters",Central and Eastern Europe,5.949999809,66.8074646,10.17531967,12.05103117,1.1
+96,Africa,LBR,Liberia,5.8,"tropical; hot, humid; dry winters with hot days and cool to cold nights; wet, cloudy summers with frequent heavy showers",Sub-Saharan Africa,4.557899952,56.09631348,7.054380417000001,11.78776693,0.05
+97,Africa,LBY,Libya,0.0,"Mediterranean along coast; dry, extreme desert interior",Middle East and North Africa,5.488800049,62.29999924,9.789815903,14.20183583,0.0
+98,Europe,LTU,Lithuania,15.0,"transitional, between maritime and continental; wet, moderate winters and summers",Central and Eastern Europe,6.215499877999999,67.29407501,10.34362602,12.24507181,1.5
+99,Europe,LUX,Luxembourg,13.0,"modified continental with mild winters, cool summers",Western Europe,7.237500191,72.59999847,11.45068073,14.96466061,4.75
+100,Africa,MDG,Madagascar,1.9,"tropical along coast, temperate inland, arid in south",Sub-Saharan Africa,4.165599823,59.10542679,7.281685829,12.88844124,0.1
+101,Africa,MWI,Malawi,3.7,sub-tropical; rainy season (November to May); dry season (May to November),Sub-Saharan Africa,3.538000107,57.59288788,7.062226295,12.47314767,0.02
+102,Asia,MYS,Malaysia,0.9,tropical; annual southwest (April to October) and northeast (October to February) monsoons,Southeast Asia,5.384300232,67.10215759,10.26251888,12.14320306,0.01
+103,Asia,MDV,Maldives,2.7,"tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwest monsoon (June to August)",South Asia,5.197599888,70.59999847,9.518632889,12.29830363,0.54
+104,Africa,MLI,Mali,1.3,"subtropical to arid; hot and dry (February to June); rainy, humid, and mild (June to November); cool and dry (November to February)",Sub-Saharan Africa,4.729300021999999,51.72698212,7.629852295,11.43918028,0.01
+105,Europe,MLT,Malta,8.1,"Mediterranean; mild, rainy winters; hot, dry summers",Western Europe,6.7727999689999985,72.19999695,10.53383827,14.47289918,3.25
+106,Africa,MRT,Mauritania,0.0,"desert; constantly hot, dry, dusty",Sub-Saharan Africa,4.374599934,57.01017761,8.233919144,11.49507133,0.0
+107,Africa,MUS,Mauritius,3.6,"tropical, modified by southeast trade winds; warm, dry winter (May to November); hot, wet, humid summer (November to May)",Sub-Saharan Africa,6.101299762999999,66.40434265,9.956786156,11.94166342,0.3
+108,North America,MEX,Mexico,6.5,varies from tropical to desert,Latin America and Caribbean,6.465000152999999,68.29902649,9.797797203,10.43235692,0.23
+109,Asia,MNG,Mongolia,7.4,desert; continental (large daily and seasonal temperature ranges),East Asia,5.456200123,62.30448532,9.412186623,11.19896925,0.16
+110,Europe,MDA,Moldova,15.2,"moderate winters, warm summers",Commonwealth of Independent States,5.607500076,65.01301575,8.776714325,11.74387441,4.9
+111,Europe,MNE,Montenegro,8.0,"Mediterranean climate, hot dry summers and autumns and relatively cold winters with heavy snowfalls inland",Central and Eastern Europe,5.54610014,68.50534821,9.751860619,11.21467321,3.18
+112,Africa,MAR,Morocco,0.6,"Mediterranean, becoming more extreme in the interior",Middle East and North Africa,5.094799995,65.89624023,8.940313339,16.52852643,0.21
+113,Africa,MOZ,Mozambique,2.4,tropical to subtropical,Sub-Saharan Africa,4.623600006,54.20582199,7.069345951,13.0309529,0.11
+114,Asia,OMN,Oman,0.8,"dry desert; hot, humid along coast; hot, dry interior; strong southwest summer monsoon (May to September) in far south",,,,,14.05020814,0.0
+115,Africa,NAM,Namibia,9.8,"desert; hot, dry; rainfall sparse and erratic",Sub-Saharan Africa,4.571100235,56.50148773,9.203141212,12.01041422,0.06
+116,Oceania,NRU,Nauru,6.0,tropical with a monsoonal pattern; rainy season (November to February),,,,,,0.16
+117,Asia,NPL,Nepal,2.0,varies from cool summers and severe winters in north to subtropical summers and mild winters in south,South Asia,5.137199879,63.77917862,7.925357342000001,13.73350811,0.0
+118,Europe,NLD,Netherlands,8.7,temperate; marine; cool summers and mild winters,Western Europe,7.448900223,72.30091858,10.81271172,15.94234611,2.97
+119,Oceania,VUT,Vanuatu,1.0,tropical; moderated by southeast trade winds from May to October; moderate rainfall from November to April; may be affected by cyclones from December to April,,,,,11.28359947,0.17
+120,Oceania,NZL,New Zealand,10.7,temperate with sharp regional contrasts,North America and ANZ,7.299600123999999,73.20262909,10.50094318,18.49560528,2.92
+121,North America,NIC,Nicaragua,5.2,"tropical in lowlands, cooler in highlands",Latin America and Caribbean,6.13710022,67.50717926,8.493160247999999,10.73028727,0.02
+122,Africa,NER,Niger,0.5,"desert; mostly hot, dry, dusty; tropical in extreme south",Sub-Saharan Africa,4.909599781,53.50009537,6.8421669010000015,11.9317849,0.01
+123,Africa,NGA,Nigeria,13.4,"varies; equatorial in south, tropical in center, arid in north",Sub-Saharan Africa,4.724100113,49.86190796,8.57662487,12.06431127,0.05
+124,Europe,NOR,Norway,7.5,"temperate along coast, modified by North Atlantic Current; colder interior with increased precipitation and colder summers; rainy year-round on west coast",Western Europe,7.4879999160000015,73.20078278,11.08780384,16.36807386,2.22
+125,Oceania,FSM,Micronesia (country),2.5,,,,,,11.3067981,0.14
+126,Asia,PAK,Pakistan,0.3,"mostly hot, dry desert; temperate in northwest; arctic in north",South Asia,5.69329977,58.25313568,8.482727051,12.5266686,0.0
+127,North America,PAN,Panama,7.9,"tropical maritime; hot, humid, cloudy; prolonged rainy season (May to January), short dry season (January to May)",Latin America and Caribbean,6.3048000339999986,69.60301208,10.03423405,10.68145872,0.21
+128,Oceania,PNG,Papua New Guinea,1.2,"tropical; northwest monsoon (December to March), southeast monsoon (May to October); slight seasonal temperature variation",,,,,11.59344805,0.02
+129,South America,PRY,Paraguay,7.2,"subtropical to temperate; substantial rainfall in the eastern portions, becoming semiarid in the far west",Latin America and Caribbean,5.692100048,65.63993835,9.389982224,13.95810913,0.53
+130,South America,PER,Peru,6.3,varies from tropical in east to dry desert in west; temperate to frigid in Andes,Latin America and Caribbean,5.796800137000001,68.10023499,9.456313133,12.09084041,0.44
+131,Asia,PHL,Philippines,6.6,tropical marine; northeast monsoon (November to April); southwest monsoon (May to October),Southeast Asia,6.006000042,61.92676163,8.993545532,11.72332461,0.02
+132,Europe,POL,Poland,11.6,"temperate with cold, cloudy, moderately severe winters with frequent precipitation; mild summers with frequent showers and thundershowers",Central and Eastern Europe,6.1862998010000005,69.31113434,10.26512432,10.96054023,0.86
+133,Europe,PRT,Portugal,12.3,"maritime temperate; cool and rainy in north, warmer and drier in south",Western Europe,5.9109001160000005,72.40202332,10.26374245,15.5377687,5.99
+134,Africa,GNB,Guinea-Bissau,4.8,tropical; generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds,,,,,11.60734512,0.9
+135,Asia,TLS,Timor,2.1,,,,,,13.33094747,0.09
+136,Asia,QAT,Qatar,2.0,"arid; mild, pleasant winters; very hot, humid summers",,,,,13.82640533,0.15
+137,Europe,ROU,Romania,12.6,"temperate; cold, cloudy winters with frequent snow and fog; sunny summers with frequent showers and thunderstorms",Central and Eastern Europe,6.123700142000001,67.20723724,10.107584,10.818324,3.07
+138,Europe,RUS,Russia,11.7,ranges from steppes in the south through humid continental in much of European Russia; subarctic in Siberia to tundra climate in the polar north; winters vary from cool along Black Sea coast to frigid in Siberia; summers vary from warm in the steppes to cool along Arctic coast,Commonwealth of Independent States,5.546000004,64.10045624,10.12887192,11.74731978,1.12
+139,Africa,RWA,Rwanda,9.0,"temperate; two rainy seasons (February to April, November to January); mild in mountains with frost and snow possible",Sub-Saharan Africa,3.312299967,61.09884644,7.600104332000001,13.23790309,0.0
+140,North America,KNA,Saint Kitts and Nevis,9.4,"tropical, tempered by constant sea breezes; little seasonal temperature variation; rainy season (May to November)",,,,,,0.41
+141,North America,LCA,Saint Lucia,9.9,"tropical, moderated by northeast trade winds; dry season January to April, rainy season May to August",,,,,13.39175621,1.46
+142,North America,VCT,Saint Vincent and the Grenadines,8.2,tropical; little seasonal temperature variation; rainy season (May to November),,,,,13.24892783,0.23
+143,Africa,STP,Sao Tome and Principe,6.8,"tropical; hot, humid; one rainy season (October to May)",,,,,11.3078275,4.51
+144,Asia,SAU,Saudi Arabia,0.2,"harsh, dry desert with great temperature extremes",Middle East and North Africa,6.406499863,66.30514526,10.79781246,13.54817772,0.0
+145,Africa,SEN,Senegal,0.7,"tropical; hot, humid; rainy season (May to November) has strong southeast winds; dry season (December to April) dominated by hot, dry, harmattan wind",Sub-Saharan Africa,4.980800152,59.59915161,8.118982315,11.37910115,0.09
+146,Europe,SRB,Serbia,11.1,"in the north, continental climate (cold winters and hot, humid summers with well-distributed rainfall); in other parts, continental and Mediterranean climate (relatively cold winters with heavy snowfall and hot, dry summers and autumns)",Central and Eastern Europe,5.77820015,68.21020508,9.680980682000001,11.30309405,4.16
+147,Africa,SYC,Seychelles,12.0,tropical marine; humid; cooler season during southeast monsoon (late May to September); warmer season during northwest monsoon (March to May),,,,,11.05594426,2.71
+148,Africa,SLE,Sierra Leone,5.7,"tropical; hot, humid; summer rainy season (May to December); winter dry season (December to April)",Sub-Saharan Africa,3.926399946,50.86514282,7.26880312,11.63092959,0.03
+149,Asia,SGP,Singapore,2.0,"tropical; hot, humid, rainy; two distinct monsoon seasons - northeastern monsoon (December to March) and southwestern monsoon (June to September); inter-monsoon - frequent afternoon and early evening thunderstorms",Southeast Asia,6.3770999910000015,76.80458069,11.39552116,12.75356796,0.27
+150,Europe,SVK,Slovakia,11.5,"temperate; cool summers; cold, cloudy, humid winters",Central and Eastern Europe,6.280600071,68.90634155,10.34774971,11.16878618,2.36
+151,Asia,VNM,Vietnam,8.3,"tropical in south; monsoonal in north with hot, rainy season (May to September) and warm, dry season (October to March)",Southeast Asia,5.353499889,67.95273590000001,8.809545517,10.8477994,0.02
+152,Europe,SVN,Slovenia,12.6,"Mediterranean climate on the coast, continental climate with mild to hot summers and cold winters in the plateaus and valleys to the east",Central and Eastern Europe,6.363399982000001,71.1029892,10.39232254,12.020118,5.31
+153,Africa,SOM,Somalia,0.0,"principally desert; northeast monsoon (December to February), moderate temperatures in north and hot in south; southwest monsoon (May to October), torrid in the north and hot in the south, irregular rainfall, hot and humid periods (tangambili) between monsoons",,,,,12.68372142,0.0
+154,Africa,ZAF,South Africa,9.3,"mostly semiarid; subtropical along east coast; sunny days, cool nights",Sub-Saharan Africa,4.814099789,56.50601196,9.403370857,12.6502683,1.35
+155,Africa,ZWE,Zimbabwe,4.8,tropical; moderated by altitude; rainy season (November to March),Sub-Saharan Africa,3.2992000580000003,55.61725998,7.8657116889999985,11.33274435,0.05
+156,Europe,ESP,Spain,10.0,"temperate; clear, hot summers in interior, more moderate and cloudy along coast; cloudy, cold winters in interior, partly cloudy and cool along coast",Western Europe,6.4008998870000005,74.40270996,10.46292686,16.37056109,2.07
+157,Africa,SDN,Sudan,0.5,hot and dry; arid desert; rainy season varies by region (April to November),,,,,17.09892217,0.0
+158,South America,SUR,Suriname,5.1,tropical; moderated by trade winds,,,,,14.04785471,0.16
+159,Africa,SWZ,Eswatini,9.9,varies from tropical to near temperate,,,,,12.17659299,0.06
+160,Europe,SWE,Sweden,9.2,"temperate in south with cold, cloudy winters and cool, partly cloudy summers; subarctic in north",Western Europe,7.353499889,72.60076904,10.75879383,15.77761679,3.6
+161,Europe,CHE,Switzerland,11.5,"temperate, but varies with altitude; cold, cloudy, rainy/snowy winters; cool to warm, cloudy, humid summers with occasional showers",Western Europe,7.559899807000001,74.10244751,10.97993279,15.22131182,4.57
+162,Asia,TJK,Tajikistan,3.3,"mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir Mountains",Commonwealth of Independent States,5.555699825,64.10459137,8.024810791,10.62871339,0.01
+163,Asia,THA,Thailand,8.3,"tropical; rainy, warm, cloudy southwest monsoon (mid-May to September); dry, cool northeast monsoon (November to mid-March); southern isthmus always hot and humid",Southeast Asia,5.9987998010000005,67.25059509,9.741791725,12.95535967,0.04
+164,Africa,TGO,Togo,3.1,"tropical; hot, humid in south; semiarid in north",Sub-Saharan Africa,4.187200069,54.71989822,7.357711315,11.69726893,0.33
+165,Oceania,TON,Tonga,1.5,"tropical; modified by trade winds; warm season (December to May), cool season (May to December)",,,,,11.00417022,0.1
+166,North America,TTO,Trinidad and Tobago,8.4,tropical; rainy season (June to December),Latin America and Caribbean,6.1918997760000005,63.5,10.26000214,14.00788674,0.32
+167,Asia,ARE,United Arab Emirates,3.8,desert; cooler in eastern mountains,Middle East and North Africa,6.790800095,67.08278656,11.1099987,12.40514899,0.13
+168,Africa,TUN,Tunisia,1.9,"temperate in north with mild, rainy winters and hot, dry summers; desert in south",Middle East and North Africa,4.392199993,66.89785767,9.314972877999999,15.61385176,0.38
+169,Europe,TUR,Turkey,2.0,"temperate; hot, dry summers with mild, wet winters; harsher in interior",Middle East and North Africa,5.131800175,66.90281677,10.12941933,14.53602582,0.13
+170,Asia,TKM,Turkmenistan,5.4,subtropical desert,Commonwealth of Independent States,5.119100093999999,62.21170807,9.74803257,10.78989136,0.8
+171,Oceania,TUV,Tuvalu,1.7,tropical; moderated by easterly trade winds (March to November); westerly gales and heavy rain (November to March),,,,,,1.15
+172,Africa,UGA,Uganda,9.5,"tropical; generally rainy with two dry seasons (December to February, June to August); semiarid in northeast",Sub-Saharan Africa,4.43200016,55.70820236,7.500389576,13.62560553,0.01
+173,Europe,UKR,Ukraine,8.6,"temperate continental; Mediterranean only on the southern Crimean coast; precipitation disproportionately distributed, highest in west and north, lesser in east and southeast; winters vary from cool along the Black Sea to cold farther inland; warm summers across the greater part of the country, hot in the south",Commonwealth of Independent States,4.56069994,64.60678101,9.010690689,12.32961963,0.72
+174,Europe,MKD,North Macedonia,8.1,"warm, dry summers and autumns; relatively cold winters with heavy snowfall",,,,,11.07662315,0.26
+175,Africa,EGY,Egypt,0.4,"desert; hot, dry summers with moderate winters",Middle East and North Africa,4.151400089,61.78015137,9.316541672,15.20598174,0.0
+176,Europe,GBR,United Kingdom,11.4,temperate; moderated by prevailing southwest winds over the North Atlantic Current; more than one-half of the days are overcast,Western Europe,7.164500237,72.30160522,10.60013485,14.66385933,4.17
+177,Africa,TZA,Tanzania,9.4,varies from tropical along coast to temperate in highlands,Sub-Saharan Africa,3.476200104,57.49607468,7.967665195,12.63725685,0.02
+178,North America,USA,United States,9.8,"mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid in the great plains west of the Mississippi River, and arid in the Great Basin of the southwest; low winter temperatures in the northwest are ameliorated occasionally in January and February by warm chinook winds from the eastern slopes of the Rocky Mountains",North America and ANZ,6.9395999910000015,68.29949951,10.92576885,17.08089211,1.63
+179,Africa,BFA,Burkina Faso,8.2,"three climate zones including a hot tropical savanna with a short rainy season in the southern half, a tropical hot semi-arid steppe climate typical of the Sahel region in the northern half, and small area of hot desert in the very north of the country bordering the Sahara Desert",Sub-Saharan Africa,4.768700123,53.88945389,7.46854496,11.94718361,0.1
+180,South America,URY,Uruguay,10.8,warm temperate; freezing temperatures almost unknown,Latin America and Caribbean,6.440100192999999,69.00254822,9.948192596,15.35722034,3.13
+181,Asia,UZB,Uzbekistan,2.7,"mostly mid-latitude desert, long, hot summers, mild winters; semiarid grassland in east",Commonwealth of Independent States,6.257599831,65.10757446,8.740371704,10.89707363,0.13
+182,South America,VEN,Venezuela,5.6,"tropical; hot, humid; more moderate in highlands",Latin America and Caribbean,5.053199768,66.50534058,8.977793693999999,11.0145057,0.06
+183,Oceania,WSM,Samoa,2.5,"tropical; rainy season (November to April), dry season (May to October)",,,,,11.15271551,0.09
+184,Asia,YEM,Yemen,0.1,"mostly desert; hot and humid along west coast; temperate in western mountains affected by seasonal monsoon; extraordinarily hot, dry, harsh desert in east",Middle East and North Africa,3.527400017,56.72728348,7.759682655,15.81947115,0.0
+185,Africa,ZMB,Zambia,4.8,tropical; modified by altitude; rainy season (October to April),Sub-Saharan Africa,3.759399891,55.29937744,8.224720001,12.19210701,0.07
