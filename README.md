@@ -43,7 +43,7 @@ Visualizations were built using variety of Python libraries like Matplolib and S
 <img src="Images/4_beer_to_happiness_regression.png" width="700" height="400">
 <img src="Images/5_spirit_to_happiness_regression.png" width="700" height="400">
 <img src="Images/6_alcohol_servings_to_happiness.png" width="700" height="400">
-<img src="Images/7_wine_to_happiness_regression.png" width="7000" height="400">
+<img src="Images/7_wine_to_happiness_regression.png" width="700" height="400">
 
 ### Limitations
 * As we merged our datasets we had one list of values that was our North Star for how we approached the analysis - alcohol consumption (L). Focusing on alcohol consumption, that yielded data for 186 countries. [Insert Nadia] 
