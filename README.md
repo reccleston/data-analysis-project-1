@@ -1,7 +1,7 @@
 # data-analysis-project-1
 #### First large data analysis class project
 
-<img src="Images/alcohol_image.png" width="800" height="400">
+<img src="Images/alcohol_image.png" width="1000" height="400">
 
 
 ## Worldwide Alcohol Consumption Analysis 
@@ -37,6 +37,13 @@ III. Analysis and visualization
 Visualizations were built using variety of Python libraries like Matplolib and Seaborn.
 
 ### Output
+<img src="Images/1_drinking_bin_correlation_matrix.png" width="700" height="400">
+<img src="Images/2_top_5_pie_chart.png" width="700" height="400">
+<img src="Images/3_consumption_boxplot_by_continent.png" width="700" height="400">
+<img src="Images/4_beer_to_happiness_regression.png" width="700" height="400">
+<img src="Images/5_spirit_to_happiness_regression.png" width="700" height="400">
+<img src="Images/6_alcohol_servings_to_happiness.png" width="700" height="400">
+<img src="Images/7_wine_to_happiness_regression.png" width="700" height="400">
 
 ### Limitations
 * As we merged our datasets we had one list of values that was our North Star for how we approached the analysis - alcohol consumption (L). Focusing on alcohol consumption, that yielded data for 186 countries. [Insert Nadia] 
