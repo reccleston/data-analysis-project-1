@@ -1,7 +1,8 @@
 # data-analysis-project-1
 #### First large data analysis class project
 
-![alt text](alcohol_image.png "Title")
+<img src="Images/alcohol_image.png" width="800" height="400">
+
 
 ## Worldwide Alcohol Consumption Analysis 
 Project link : 
