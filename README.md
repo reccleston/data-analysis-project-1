@@ -40,7 +40,7 @@ Visualizations were built using variety of Python libraries like Matplolib and S
 ### Output
 <img src="Images/1_drinking_bin_correlation_matrix.png" width="700" height="400">
 <img src="Images/2_top_5_pie_chart.png" width="700" height="400">
-<img src="Images/3_part_one_heat_map.png" width="700" height="400">
+<img src="Images/map.png" width="700" height="400">
 <img src="Images/4_continent_boxplot.png" width="700" height="400">
 
 ### Analysis 
